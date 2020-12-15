@@ -80,7 +80,7 @@ Choose the plan type you'd like Cleavr to set up on your server.
 
 Just a reminder, you will be billed separately by the provider for the plan you choose. 
 
-#### Server Reqion
+#### Server Region
 
 Select which server region to provision a server at. 
 
